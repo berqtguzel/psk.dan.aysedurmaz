@@ -1,8 +1,8 @@
 export const navItems = [
-  { name: "About", link: "#about" },
-  { name: "Projects", link: "#projects" },
-  { name: "Testimonials", link: "#testimonials" },
-  { name: "Contact", link: "#contact" },
+  { name: "Hakkımda", link: "#about" },
+  { name: "Çalışma Alanlarım", link: "#services" },
+  { name: "Yazılar & Notlar", link: "#notes" },
+  { name: "İletişim", link: "#contact" },
 ];
 
 export const gridItems = [
@@ -204,14 +204,7 @@ export const workExperience = [
 export const socialMedia = [
   {
     id: 1,
-    img: "/git.svg",
-  },
-  {
-    id: 2,
-    img: "/twit.svg",
-  },
-  {
-    id: 3,
-    img: "/link.svg",
+    name: "Instagram",
+    link: "https://www.instagram.com/psk.dan.aysedurmaz/",
   },
 ];
